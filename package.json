@@ -1,0 +1,19 @@
+{
+  "name": "aulasdm2103",
+  "version": "1.0.0",
+  "description": "Aula04SDM2103",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Quirino/AULASDM2103.git"
+  },
+  "author": "Gustavo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Quirino/AULASDM2103/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Quirino/AULASDM2103#readme"
+}
